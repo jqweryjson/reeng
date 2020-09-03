@@ -1,5 +1,6 @@
 # reeng
 
-*Stack*:
-  Frontend:
-    Vue3 + typecsript + pug + stilus
+**Stack**:
+
+  **Frontend**:
+    Vue3 + typecsript + pug + stylus
